@@ -4,11 +4,8 @@
     android:layout_height="match_parent"
     tools:context="com.teclever.assignment1.Frag3">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <GridView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/f3"
-        android:text="fragment3" />
-
+        android:id="@+id/gridview"></GridView>
 </FrameLayout>
